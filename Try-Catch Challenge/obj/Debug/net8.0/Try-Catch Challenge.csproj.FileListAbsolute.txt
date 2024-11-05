@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\bin\Debug\net8.0\Try-Catch Challenge.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\bin\Debug\net8.0\Try-Catch Challenge.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\bin\Debug\net8.0\Try-Catch Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\bin\Debug\net8.0\Try-Catch Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\bin\Debug\net8.0\Try-Catch Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\refint\Try-Catch Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\Try-Catch Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Try-Catch Challenge\obj\Debug\net8.0\ref\Try-Catch Challenge.dll
