@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\bin\Debug\net8.0\Reusable Methods.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\bin\Debug\net8.0\Reusable Methods.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\bin\Debug\net8.0\Reusable Methods.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\bin\Debug\net8.0\Reusable Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\bin\Debug\net8.0\Reusable Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\refint\Reusable Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\Reusable Methods.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Reusable Methods\obj\Debug\net8.0\ref\Reusable Methods.dll

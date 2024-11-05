@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\bin\Debug\net8.0\First Method.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\bin\Debug\net8.0\First Method.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\bin\Debug\net8.0\First Method.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\bin\Debug\net8.0\First Method.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\bin\Debug\net8.0\First Method.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\refint\First Method.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\First Method.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\First Method\obj\Debug\net8.0\ref\First Method.dll

@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\bin\Debug\net8.0\Building Code with Methods.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\bin\Debug\net8.0\Building Code with Methods.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\bin\Debug\net8.0\Building Code with Methods.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\bin\Debug\net8.0\Building Code with Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\bin\Debug\net8.0\Building Code with Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\refint\Building Code with Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\Building Code with Methods.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Building Code with Methods\obj\Debug\net8.0\ref\Building Code with Methods.dll
