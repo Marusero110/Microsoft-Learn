@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\bin\Debug\net8.0\Word-Reversing Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\bin\Debug\net8.0\Word-Reversing Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\bin\Debug\net8.0\Word-Reversing Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\bin\Debug\net8.0\Word-Reversing Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\bin\Debug\net8.0\Word-Reversing Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\refint\Word-Reversing Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\Word-Reversing Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Word-Reversing Challenge\obj\Debug\net8.0\ref\Word-Reversing Challenge.dll

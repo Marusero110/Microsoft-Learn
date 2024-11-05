@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\bin\Debug\net8.0\Orders Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\bin\Debug\net8.0\Orders Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\bin\Debug\net8.0\Orders Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\bin\Debug\net8.0\Orders Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\bin\Debug\net8.0\Orders Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\refint\Orders Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\Orders Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Orders Challenge\obj\Debug\net8.0\ref\Orders Challenge.dll
