@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\bin\Debug\net8.0\Method Scope.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\bin\Debug\net8.0\Method Scope.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\bin\Debug\net8.0\Method Scope.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\bin\Debug\net8.0\Method Scope.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\bin\Debug\net8.0\Method Scope.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\refint\Method Scope.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\Method Scope.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Method Scope\obj\Debug\net8.0\ref\Method Scope.dll

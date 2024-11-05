@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reusable Method Challenge/1.0.0": {
+        "runtime": {
+          "Reusable Method Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reusable Method Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
