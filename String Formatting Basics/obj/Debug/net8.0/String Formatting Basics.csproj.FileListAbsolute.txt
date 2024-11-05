@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\bin\Debug\net8.0\String Formatting Basics.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\bin\Debug\net8.0\String Formatting Basics.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\bin\Debug\net8.0\String Formatting Basics.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\bin\Debug\net8.0\String Formatting Basics.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\bin\Debug\net8.0\String Formatting Basics.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\refint\String Formatting Basics.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\String Formatting Basics.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Formatting Basics\obj\Debug\net8.0\ref\String Formatting Basics.dll
