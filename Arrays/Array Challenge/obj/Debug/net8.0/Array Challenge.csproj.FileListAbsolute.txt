@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\bin\Debug\net8.0\Array Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\bin\Debug\net8.0\Array Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\bin\Debug\net8.0\Array Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\bin\Debug\net8.0\Array Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\bin\Debug\net8.0\Array Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\refint\Array Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\Array Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array Challenge\obj\Debug\net8.0\ref\Array Challenge.dll

@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\bin\Debug\net8.0\Array 3.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\bin\Debug\net8.0\Array 3.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\bin\Debug\net8.0\Array 3.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\bin\Debug\net8.0\Array 3.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\bin\Debug\net8.0\Array 3.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\refint\Array 3.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\Array 3.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Arrays\Array 3\obj\Debug\net8.0\ref\Array 3.dll
