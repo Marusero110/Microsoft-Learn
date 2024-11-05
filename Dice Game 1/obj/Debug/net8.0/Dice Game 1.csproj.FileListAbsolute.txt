@@ -1,0 +1,28 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\bin\Debug\net8.0\Dice Game 1.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\bin\Debug\net8.0\Dice Game 1.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\bin\Debug\net8.0\Dice Game 1.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\bin\Debug\net8.0\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\bin\Debug\net8.0\Dice Game 1.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\refint\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\Dice Game 1.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Game 1\obj\Debug\net8.0\ref\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\bin\Debug\net8.0\Dice Game 1.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\bin\Debug\net8.0\Dice Game 1.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\bin\Debug\net8.0\Dice Game 1.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\bin\Debug\net8.0\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\bin\Debug\net8.0\Dice Game 1.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\refint\Dice Game 1.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\Dice Game 1.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Game 1\obj\Debug\net8.0\ref\Dice Game 1.dll

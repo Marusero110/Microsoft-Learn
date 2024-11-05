@@ -1,0 +1,4 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Games\Game 2\obj\Debug\net8.0\Game 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Games\Game 2\obj\Debug\net8.0\Game 2.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Games\Game 2\obj\Debug\net8.0\Game 2.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Dice Games\Game 2\obj\Debug\net8.0\Game 2.csproj.CoreCompileInputs.cache

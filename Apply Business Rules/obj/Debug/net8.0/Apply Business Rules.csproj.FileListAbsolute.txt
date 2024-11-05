@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\bin\Debug\net8.0\Apply Business Rules.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\bin\Debug\net8.0\Apply Business Rules.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\bin\Debug\net8.0\Apply Business Rules.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\bin\Debug\net8.0\Apply Business Rules.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\bin\Debug\net8.0\Apply Business Rules.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\refint\Apply Business Rules.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\Apply Business Rules.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Apply Business Rules\obj\Debug\net8.0\ref\Apply Business Rules.dll
