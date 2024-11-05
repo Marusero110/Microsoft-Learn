@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\bin\Debug\net8.0\Floating-Point Types.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\bin\Debug\net8.0\Floating-Point Types.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\bin\Debug\net8.0\Floating-Point Types.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\bin\Debug\net8.0\Floating-Point Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\bin\Debug\net8.0\Floating-Point Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\refint\Floating-Point Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\Floating-Point Types.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Floating-Point Types\obj\Debug\net8.0\ref\Floating-Point Types.dll

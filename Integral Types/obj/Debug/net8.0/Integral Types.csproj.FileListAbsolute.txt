@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\bin\Debug\net8.0\Integral Types.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\bin\Debug\net8.0\Integral Types.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\bin\Debug\net8.0\Integral Types.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\bin\Debug\net8.0\Integral Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\bin\Debug\net8.0\Integral Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\refint\Integral Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\Integral Types.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integral Types\obj\Debug\net8.0\ref\Integral Types.dll

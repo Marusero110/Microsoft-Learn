@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\bin\Debug\net8.0\Reference Types.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\bin\Debug\net8.0\Reference Types.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\bin\Debug\net8.0\Reference Types.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\bin\Debug\net8.0\Reference Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\bin\Debug\net8.0\Reference Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\refint\Reference Types.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\Reference Types.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Reference Types\obj\Debug\net8.0\ref\Reference Types.dll
