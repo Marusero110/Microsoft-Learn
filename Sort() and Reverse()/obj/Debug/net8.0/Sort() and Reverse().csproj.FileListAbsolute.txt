@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\bin\Debug\net8.0\Sort() and Reverse().exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\bin\Debug\net8.0\Sort() and Reverse().deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\bin\Debug\net8.0\Sort() and Reverse().runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\bin\Debug\net8.0\Sort() and Reverse().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\bin\Debug\net8.0\Sort() and Reverse().pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\refint\Sort() and Reverse().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\Sort() and Reverse().genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Sort() and Reverse()\obj\Debug\net8.0\ref\Sort() and Reverse().dll

@@ -1,0 +1,28 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\bin\Debug\net8.0\Split() and Join().exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\bin\Debug\net8.0\Split() and Join().deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\bin\Debug\net8.0\Split() and Join().runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\bin\Debug\net8.0\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\bin\Debug\net8.0\Split() and Join().pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\refint\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\Split() and Join().genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Split() and Join()\obj\Debug\net8.0\ref\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\bin\Debug\net8.0\Split() and Join().exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\bin\Debug\net8.0\Split() and Join().deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\bin\Debug\net8.0\Split() and Join().runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\bin\Debug\net8.0\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\bin\Debug\net8.0\Split() and Join().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\refint\Split() and Join().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\Split() and Join().genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Split() and Join()\obj\Debug\net8.0\ref\Split() and Join().dll
