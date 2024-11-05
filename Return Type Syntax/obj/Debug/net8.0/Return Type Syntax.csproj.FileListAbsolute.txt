@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\bin\Debug\net8.0\Return Type Syntax.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\bin\Debug\net8.0\Return Type Syntax.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\bin\Debug\net8.0\Return Type Syntax.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\bin\Debug\net8.0\Return Type Syntax.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\bin\Debug\net8.0\Return Type Syntax.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\refint\Return Type Syntax.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\Return Type Syntax.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Return Type Syntax\obj\Debug\net8.0\ref\Return Type Syntax.dll

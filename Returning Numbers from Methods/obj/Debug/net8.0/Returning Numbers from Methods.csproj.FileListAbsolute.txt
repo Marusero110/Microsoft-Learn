@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\bin\Debug\net8.0\Returning Numbers from Methods.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\bin\Debug\net8.0\Returning Numbers from Methods.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\bin\Debug\net8.0\Returning Numbers from Methods.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\bin\Debug\net8.0\Returning Numbers from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\bin\Debug\net8.0\Returning Numbers from Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\refint\Returning Numbers from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\Returning Numbers from Methods.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Numbers from Methods\obj\Debug\net8.0\ref\Returning Numbers from Methods.dll
