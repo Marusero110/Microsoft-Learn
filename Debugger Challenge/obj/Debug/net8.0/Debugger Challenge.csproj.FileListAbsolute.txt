@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\bin\Debug\net8.0\Debugger Challenge.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\bin\Debug\net8.0\Debugger Challenge.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\bin\Debug\net8.0\Debugger Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\bin\Debug\net8.0\Debugger Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\bin\Debug\net8.0\Debugger Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\refint\Debugger Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\Debugger Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Debugger Challenge\obj\Debug\net8.0\ref\Debugger Challenge.dll
