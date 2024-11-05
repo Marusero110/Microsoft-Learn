@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\bin\Debug\net8.0\Readability Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\bin\Debug\net8.0\Readability Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\bin\Debug\net8.0\Readability Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\bin\Debug\net8.0\Readability Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\bin\Debug\net8.0\Readability Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\refint\Readability Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\Readability Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability Challenge\obj\Debug\net8.0\ref\Readability Challenge.dll
