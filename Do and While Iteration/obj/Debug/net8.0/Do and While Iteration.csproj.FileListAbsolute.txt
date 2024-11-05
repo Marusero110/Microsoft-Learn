@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\bin\Debug\net8.0\Do and While Iteration.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\bin\Debug\net8.0\Do and While Iteration.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\bin\Debug\net8.0\Do and While Iteration.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\bin\Debug\net8.0\Do and While Iteration.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\bin\Debug\net8.0\Do and While Iteration.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\refint\Do and While Iteration.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\Do and While Iteration.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Do and While Iteration\obj\Debug\net8.0\ref\Do and While Iteration.dll

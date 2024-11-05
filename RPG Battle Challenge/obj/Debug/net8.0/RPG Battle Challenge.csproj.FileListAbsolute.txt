@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\bin\Debug\net8.0\RPG Battle Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\refint\RPG Battle Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\RPG Battle Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\RPG Battle Challenge\obj\Debug\net8.0\ref\RPG Battle Challenge.dll
