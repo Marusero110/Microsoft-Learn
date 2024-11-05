@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\bin\Debug\net8.0\Remove() and Replace().exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\bin\Debug\net8.0\Remove() and Replace().deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\bin\Debug\net8.0\Remove() and Replace().runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\bin\Debug\net8.0\Remove() and Replace().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\bin\Debug\net8.0\Remove() and Replace().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\refint\Remove() and Replace().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\Remove() and Replace().genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Remove() and Replace()\obj\Debug\net8.0\ref\Remove() and Replace().dll
