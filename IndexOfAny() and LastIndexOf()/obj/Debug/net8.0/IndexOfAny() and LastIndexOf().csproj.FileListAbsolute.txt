@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\bin\Debug\net8.0\IndexOfAny() and LastIndexOf().exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\bin\Debug\net8.0\IndexOfAny() and LastIndexOf().deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\bin\Debug\net8.0\IndexOfAny() and LastIndexOf().runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\bin\Debug\net8.0\IndexOfAny() and LastIndexOf().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\bin\Debug\net8.0\IndexOfAny() and LastIndexOf().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\refint\IndexOfAny() and LastIndexOf().dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\IndexOfAny() and LastIndexOf().genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\IndexOfAny() and LastIndexOf()\obj\Debug\net8.0\ref\IndexOfAny() and LastIndexOf().dll

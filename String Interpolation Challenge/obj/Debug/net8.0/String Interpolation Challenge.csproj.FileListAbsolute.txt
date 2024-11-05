@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\bin\Debug\net8.0\String Interpolation Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\refint\String Interpolation Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\String Interpolation Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Interpolation Challenge\obj\Debug\net8.0\ref\String Interpolation Challenge.dll
