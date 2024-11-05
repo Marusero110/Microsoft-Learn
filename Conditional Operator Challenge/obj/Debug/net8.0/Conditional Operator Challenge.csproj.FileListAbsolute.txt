@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\bin\Debug\net8.0\Conditional Operator Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\bin\Debug\net8.0\Conditional Operator Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\bin\Debug\net8.0\Conditional Operator Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\bin\Debug\net8.0\Conditional Operator Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\bin\Debug\net8.0\Conditional Operator Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\refint\Conditional Operator Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\Conditional Operator Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Conditional Operator Challenge\obj\Debug\net8.0\ref\Conditional Operator Challenge.dll

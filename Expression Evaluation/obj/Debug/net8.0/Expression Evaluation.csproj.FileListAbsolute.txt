@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\bin\Debug\net8.0\Expression Evaluation.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\bin\Debug\net8.0\Expression Evaluation.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\bin\Debug\net8.0\Expression Evaluation.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\bin\Debug\net8.0\Expression Evaluation.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\bin\Debug\net8.0\Expression Evaluation.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\refint\Expression Evaluation.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\Expression Evaluation.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Expression Evaluation\obj\Debug\net8.0\ref\Expression Evaluation.dll

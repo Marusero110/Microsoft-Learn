@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conditional Operator Challenge/1.0.0": {
+        "runtime": {
+          "Conditional Operator Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditional Operator Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
