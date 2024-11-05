@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\bin\Debug\net8.0\Readability.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\bin\Debug\net8.0\Readability.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\bin\Debug\net8.0\Readability.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\bin\Debug\net8.0\Readability.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\bin\Debug\net8.0\Readability.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\refint\Readability.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\Readability.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Readability\obj\Debug\net8.0\ref\Readability.dll

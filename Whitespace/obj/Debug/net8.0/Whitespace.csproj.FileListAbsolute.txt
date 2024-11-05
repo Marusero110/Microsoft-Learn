@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\bin\Debug\net8.0\Whitespace.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\bin\Debug\net8.0\Whitespace.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\bin\Debug\net8.0\Whitespace.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\bin\Debug\net8.0\Whitespace.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\bin\Debug\net8.0\Whitespace.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\refint\Whitespace.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\Whitespace.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Whitespace\obj\Debug\net8.0\ref\Whitespace.dll
