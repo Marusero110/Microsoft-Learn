@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\bin\Debug\net8.0\Returning Arrays from Methods.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\bin\Debug\net8.0\Returning Arrays from Methods.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\bin\Debug\net8.0\Returning Arrays from Methods.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\bin\Debug\net8.0\Returning Arrays from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\bin\Debug\net8.0\Returning Arrays from Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\refint\Returning Arrays from Methods.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\Returning Arrays from Methods.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Returning Arrays from Methods\obj\Debug\net8.0\ref\Returning Arrays from Methods.dll

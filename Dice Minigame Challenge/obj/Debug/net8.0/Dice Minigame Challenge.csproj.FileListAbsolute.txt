@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\bin\Debug\net8.0\Dice Minigame Challenge.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\bin\Debug\net8.0\Dice Minigame Challenge.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\bin\Debug\net8.0\Dice Minigame Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\bin\Debug\net8.0\Dice Minigame Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\bin\Debug\net8.0\Dice Minigame Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\refint\Dice Minigame Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\Dice Minigame Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Dice Minigame Challenge\obj\Debug\net8.0\ref\Dice Minigame Challenge.dll

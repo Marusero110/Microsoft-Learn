@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Returning Arrays from Methods/1.0.0": {
+        "runtime": {
+          "Returning Arrays from Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Returning Arrays from Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
