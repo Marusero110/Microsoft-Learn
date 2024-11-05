@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\bin\Debug\net8.0\Switch-Case Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\bin\Debug\net8.0\Switch-Case Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\bin\Debug\net8.0\Switch-Case Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\bin\Debug\net8.0\Switch-Case Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\bin\Debug\net8.0\Switch-Case Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\refint\Switch-Case Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\Switch-Case Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Switch-Case Challenge\obj\Debug\net8.0\ref\Switch-Case Challenge.dll
