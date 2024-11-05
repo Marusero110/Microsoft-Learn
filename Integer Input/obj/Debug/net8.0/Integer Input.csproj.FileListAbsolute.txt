@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\bin\Debug\net8.0\Integer Input.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\bin\Debug\net8.0\Integer Input.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\bin\Debug\net8.0\Integer Input.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\bin\Debug\net8.0\Integer Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\bin\Debug\net8.0\Integer Input.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\refint\Integer Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\Integer Input.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Integer Input\obj\Debug\net8.0\ref\Integer Input.dll

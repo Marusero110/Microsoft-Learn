@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\bin\Debug\net8.0\String Input.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\bin\Debug\net8.0\String Input.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\bin\Debug\net8.0\String Input.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\bin\Debug\net8.0\String Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\bin\Debug\net8.0\String Input.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\refint\String Input.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\String Input.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\String Input\obj\Debug\net8.0\ref\String Input.dll

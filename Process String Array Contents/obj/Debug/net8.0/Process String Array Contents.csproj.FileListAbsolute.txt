@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\bin\Debug\net8.0\Process String Array Contents.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\bin\Debug\net8.0\Process String Array Contents.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\bin\Debug\net8.0\Process String Array Contents.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\bin\Debug\net8.0\Process String Array Contents.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\bin\Debug\net8.0\Process String Array Contents.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\refint\Process String Array Contents.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\Process String Array Contents.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Process String Array Contents\obj\Debug\net8.0\ref\Process String Array Contents.dll
