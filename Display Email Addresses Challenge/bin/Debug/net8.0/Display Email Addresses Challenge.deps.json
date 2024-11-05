@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Display Email Addresses Challenge/1.0.0": {
+        "runtime": {
+          "Display Email Addresses Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Display Email Addresses Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

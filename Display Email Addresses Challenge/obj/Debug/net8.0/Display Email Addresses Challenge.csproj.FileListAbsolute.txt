@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\bin\Debug\net8.0\Display Email Addresses Challenge.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\bin\Debug\net8.0\Display Email Addresses Challenge.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\bin\Debug\net8.0\Display Email Addresses Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\bin\Debug\net8.0\Display Email Addresses Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\bin\Debug\net8.0\Display Email Addresses Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\refint\Display Email Addresses Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\Display Email Addresses Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Display Email Addresses Challenge\obj\Debug\net8.0\ref\Display Email Addresses Challenge.dll

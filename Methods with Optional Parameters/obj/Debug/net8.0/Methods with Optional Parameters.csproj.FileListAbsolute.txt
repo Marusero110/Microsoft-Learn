@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\bin\Debug\net8.0\Methods with Optional Parameters.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\bin\Debug\net8.0\Methods with Optional Parameters.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\bin\Debug\net8.0\Methods with Optional Parameters.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\bin\Debug\net8.0\Methods with Optional Parameters.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\bin\Debug\net8.0\Methods with Optional Parameters.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\refint\Methods with Optional Parameters.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\Methods with Optional Parameters.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Methods with Optional Parameters\obj\Debug\net8.0\ref\Methods with Optional Parameters.dll
