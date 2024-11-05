@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\bin\Debug\net8.0\Create and Throw Exceptions Challenge.exe
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\bin\Debug\net8.0\Create and Throw Exceptions Challenge.deps.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\bin\Debug\net8.0\Create and Throw Exceptions Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\bin\Debug\net8.0\Create and Throw Exceptions Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\bin\Debug\net8.0\Create and Throw Exceptions Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\refint\Create and Throw Exceptions Challenge.dll
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.pdb
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\Create and Throw Exceptions Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\Microsoft Learn\Create and Throw Exceptions Challenge\obj\Debug\net8.0\ref\Create and Throw Exceptions Challenge.dll
