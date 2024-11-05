@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Different Kinds of Dice/1.0.0": {
+        "runtime": {
+          "Different Kinds of Dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Different Kinds of Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

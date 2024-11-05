@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Six-Sided Dice/1.0.0": {
+        "runtime": {
+          "Six-Sided Dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Six-Sided Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

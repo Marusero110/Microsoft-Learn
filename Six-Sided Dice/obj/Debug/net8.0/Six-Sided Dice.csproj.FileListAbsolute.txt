@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\bin\Debug\net8.0\Six-Sided Dice.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\bin\Debug\net8.0\Six-Sided Dice.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\bin\Debug\net8.0\Six-Sided Dice.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\bin\Debug\net8.0\Six-Sided Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\bin\Debug\net8.0\Six-Sided Dice.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\refint\Six-Sided Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\Six-Sided Dice.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Six-Sided Dice\obj\Debug\net8.0\ref\Six-Sided Dice.dll

@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\bin\Debug\net8.0\Larger Value.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\bin\Debug\net8.0\Larger Value.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\bin\Debug\net8.0\Larger Value.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\bin\Debug\net8.0\Larger Value.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\bin\Debug\net8.0\Larger Value.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\refint\Larger Value.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\Larger Value.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Larger Value\obj\Debug\net8.0\ref\Larger Value.dll

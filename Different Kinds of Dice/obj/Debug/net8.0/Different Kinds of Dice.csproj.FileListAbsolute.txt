@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\bin\Debug\net8.0\Different Kinds of Dice.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\bin\Debug\net8.0\Different Kinds of Dice.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\bin\Debug\net8.0\Different Kinds of Dice.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\bin\Debug\net8.0\Different Kinds of Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\bin\Debug\net8.0\Different Kinds of Dice.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\refint\Different Kinds of Dice.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\Different Kinds of Dice.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Different Kinds of Dice\obj\Debug\net8.0\ref\Different Kinds of Dice.dll
