@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\bin\Debug\net8.0\Variable Scope Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\bin\Debug\net8.0\Variable Scope Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\bin\Debug\net8.0\Variable Scope Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\bin\Debug\net8.0\Variable Scope Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\bin\Debug\net8.0\Variable Scope Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\refint\Variable Scope Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\Variable Scope Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Variable Scope Challenge\obj\Debug\net8.0\ref\Variable Scope Challenge.dll

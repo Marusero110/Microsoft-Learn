@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\bin\Debug\net8.0\Removing Code Blocks.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\bin\Debug\net8.0\Removing Code Blocks.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\bin\Debug\net8.0\Removing Code Blocks.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\bin\Debug\net8.0\Removing Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\bin\Debug\net8.0\Removing Code Blocks.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\refint\Removing Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\Removing Code Blocks.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Removing Code Blocks\obj\Debug\net8.0\ref\Removing Code Blocks.dll

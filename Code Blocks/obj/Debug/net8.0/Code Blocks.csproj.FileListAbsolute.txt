@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\bin\Debug\net8.0\Code Blocks.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\bin\Debug\net8.0\Code Blocks.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\bin\Debug\net8.0\Code Blocks.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\bin\Debug\net8.0\Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\bin\Debug\net8.0\Code Blocks.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\refint\Code Blocks.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\Code Blocks.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Code Blocks\obj\Debug\net8.0\ref\Code Blocks.dll
