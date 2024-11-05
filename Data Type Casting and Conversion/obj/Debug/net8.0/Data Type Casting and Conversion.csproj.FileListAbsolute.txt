@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\bin\Debug\net8.0\Data Type Casting and Conversion.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\bin\Debug\net8.0\Data Type Casting and Conversion.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\bin\Debug\net8.0\Data Type Casting and Conversion.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\bin\Debug\net8.0\Data Type Casting and Conversion.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\bin\Debug\net8.0\Data Type Casting and Conversion.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\refint\Data Type Casting and Conversion.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\Data Type Casting and Conversion.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Data Type Casting and Conversion\obj\Debug\net8.0\ref\Data Type Casting and Conversion.dll

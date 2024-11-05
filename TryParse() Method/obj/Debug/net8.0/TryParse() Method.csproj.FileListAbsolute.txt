@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\bin\Debug\net8.0\TryParse() Method.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\bin\Debug\net8.0\TryParse() Method.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\bin\Debug\net8.0\TryParse() Method.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\bin\Debug\net8.0\TryParse() Method.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\bin\Debug\net8.0\TryParse() Method.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\refint\TryParse() Method.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\TryParse() Method.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\TryParse() Method\obj\Debug\net8.0\ref\TryParse() Method.dll
