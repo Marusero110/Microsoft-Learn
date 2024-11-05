@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Combining String Array Values Challenge/1.0.0": {
+        "runtime": {
+          "Combining String Array Values Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Combining String Array Values Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

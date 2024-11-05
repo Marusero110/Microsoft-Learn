@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\bin\Debug\net8.0\Combining String Array Values Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\bin\Debug\net8.0\Combining String Array Values Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\bin\Debug\net8.0\Combining String Array Values Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\bin\Debug\net8.0\Combining String Array Values Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\bin\Debug\net8.0\Combining String Array Values Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\refint\Combining String Array Values Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\Combining String Array Values Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Combining String Array Values Challenge\obj\Debug\net8.0\ref\Combining String Array Values Challenge.dll

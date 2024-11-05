@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\bin\Debug\net8.0\Outputing Math Operations Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\bin\Debug\net8.0\Outputing Math Operations Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\bin\Debug\net8.0\Outputing Math Operations Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\bin\Debug\net8.0\Outputing Math Operations Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\bin\Debug\net8.0\Outputing Math Operations Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\refint\Outputing Math Operations Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\Outputing Math Operations Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Outputing Math Operations Challenge\obj\Debug\net8.0\ref\Outputing Math Operations Challenge.dll
