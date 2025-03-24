@@ -1,0 +1,14 @@
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\bin\Debug\net8.0\Decision Logic Challenge.exe
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\bin\Debug\net8.0\Decision Logic Challenge.deps.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\bin\Debug\net8.0\Decision Logic Challenge.runtimeconfig.json
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\bin\Debug\net8.0\Decision Logic Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\bin\Debug\net8.0\Decision Logic Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.AssemblyInfoInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.AssemblyInfo.cs
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.csproj.CoreCompileInputs.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\refint\Decision Logic Challenge.dll
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.pdb
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\Decision Logic Challenge.genruntimeconfig.cache
+C:\Users\marce\Visual Studio Code\CsharpProjects\Decision Logic Challenge\obj\Debug\net8.0\ref\Decision Logic Challenge.dll
